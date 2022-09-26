@@ -18,64 +18,7 @@ INDITEX
 |   gradlew.bat
 |   HELP.md
 |   README.md
-|   settings.gradle
-|   
-+---.gradle
-|   |   file-system.probe
-|   |   
-|   +---6.8.1
-|   |   |   gc.properties
-|   |   |   
-|   |   +---executionHistory
-|   |   |       executionHistory.bin
-|   |   |       executionHistory.lock
-|   |   |       
-|   |   +---fileChanges
-|   |   |       last-build.bin
-|   |   |       
-|   |   +---fileHashes
-|   |   |       fileHashes.bin
-|   |   |       fileHashes.lock
-|   |   |       resourceHashesCache.bin
-|   |   |       
-|   |   +---javaCompile
-|   |   |       classAnalysis.bin
-|   |   |       jarAnalysis.bin
-|   |   |       javaCompile.lock
-|   |   |       taskHistory.bin
-|   |   |       
-|   |   \---vcsMetadata-1
-|   +---buildOutputCleanup
-|   |       buildOutputCleanup.lock
-|   |       cache.properties
-|   |       outputFiles.bin
-|   |       
-|   +---checksums
-|   |       checksums.lock
-|   |       md5-checksums.bin
-|   |       sha1-checksums.bin
-|   |       
-|   +---configuration-cache
-|   |       gc.properties
-|   |       
-|   \---vcs-1
-|           gc.properties
-|           
-+---.idea
-|   |   .gitignore
-|   |   compiler.xml
-|   |   gradle.xml
-|   |   jarRepositories.xml
-|   |   misc.xml
-|   |   runConfigurations.xml
-|   |   uiDesigner.xml
-|   |   vcs.xml
-|   |   workspace.xml
-|   |   
-|   \---sonarlint
-|       \---issuestore
-|               index.pb
-|               
+|   settings.gradle            
 +---gradle
 |   \---wrapper
 |           gradle-wrapper.jar
